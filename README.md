@@ -33,13 +33,7 @@ RegisterNumber:  212224040231
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 ```
@@ -88,13 +82,7 @@ print(cl)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 
@@ -141,15 +129,7 @@ print(cl)
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
